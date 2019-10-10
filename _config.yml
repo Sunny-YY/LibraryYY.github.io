@@ -1,2 +1,4 @@
-theme: jekyll-theme-slate
-url: https://LibraryYY.github.io
+deploy: 
+  type: git
+  reop: https://github.com/Sunny-YY/LibraryYY.github.io.git
+  branch: master
